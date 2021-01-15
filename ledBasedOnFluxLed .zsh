@@ -14,7 +14,7 @@ echo "1)color
 8)alarm
 9)timeroff"
 echo "-----------"
-var_IP="192.168.3.59"
+var_IP=""
   read INPUT_STRING
   case $INPUT_STRING in
   color|1)
